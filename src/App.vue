@@ -47,6 +47,31 @@
       name:'Manchester',
       JSP:'44.5%',
       PRP:'55.5%'
+    },
+    {
+      name:'Trelawny',
+      JSP:'34.5%',
+      PRP:'65.5%'
+    },
+    {
+      name:'St. Catherine',
+      JSP:'24.5%',
+      PRP:'75.5%'
+    },
+    {
+      name:'Clarendon',
+      JSP:'31.8%',
+      PRP:'68.2%'
+    },
+    {
+      name:'St Elizabeth ',
+      JSP:'44.4%',
+      PRP:'55.6%'
+    },
+    {
+      name:'St Ann',
+      JSP:'44.4%',
+      PRP:'55.6%'
     }
   ]
 </script>
@@ -79,7 +104,7 @@
       </div>
 
       <!-- Election results in each parish -->
-      <div class="w-full grid grid-cols-4 gap-4">
+      <div class="w-full grid grid-cols-4 gap-4 py-8">
           
         <div
          class="w-full flex flex-col justify-center items-center space-x-4 bg-white py-1 px-2 rounded-sm"
